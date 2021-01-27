@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 64A1-35D6
+
+ Directory of C:\Users\hp\Desktop\project
+
+01/27/2021  12:22 PM    <DIR>          .
+01/27/2021  12:22 PM    <DIR>          ..
+01/27/2021  12:22 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  75,878,354,944 bytes free
